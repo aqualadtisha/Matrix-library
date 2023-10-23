@@ -1,7 +1,7 @@
 CXX= g++
 CXXFLAGS=  -Wall -Werror -Wextra  -std=c++17
 GTESTFLAGS = -lgtest
-LIBRARY=s21_matrix_oop.a
+LIBRARY=Matrix.a
 
 
 MAINSRC= $(wildcard *.cc)
