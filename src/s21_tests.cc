@@ -4,7 +4,7 @@
 
 #include "s21_matrix_oop.h"
 
-namespace S21MatrixNames {
+namespace Matrix {
 
 class TestS21Matrix : public ::testing::Test {
  public:
